@@ -1,0 +1,14 @@
+C:\Users\hrafn\source\repos\Guffi2\Guffi2\bin\Debug\Guffi2.exe.config
+C:\Users\hrafn\source\repos\Guffi2\Guffi2\bin\Debug\Guffi2.exe
+C:\Users\hrafn\source\repos\Guffi2\Guffi2\bin\Debug\Guffi2.pdb
+C:\Users\hrafn\source\repos\Guffi2\Guffi2\obj\Debug\Guffi2.csprojAssemblyReference.cache
+C:\Users\hrafn\source\repos\Guffi2\Guffi2\obj\Debug\Guffi2.Guffi2.resources
+C:\Users\hrafn\source\repos\Guffi2\Guffi2\obj\Debug\Guffi2.ProjectInstaller.resources
+C:\Users\hrafn\source\repos\Guffi2\Guffi2\obj\Debug\Guffi2.csproj.GenerateResource.cache
+C:\Users\hrafn\source\repos\Guffi2\Guffi2\obj\Debug\Guffi2.csproj.CoreCompileInputs.cache
+C:\Users\hrafn\source\repos\Guffi2\Guffi2\obj\Debug\Guffi2.exe
+C:\Users\hrafn\source\repos\Guffi2\Guffi2\obj\Debug\Guffi2.pdb
+C:\Users\hrafn\source\repos\Guffi2\Guffi2\bin\Debug\WcfServiceLibrary1.dll
+C:\Users\hrafn\source\repos\Guffi2\Guffi2\bin\Debug\WcfServiceLibrary1.pdb
+C:\Users\hrafn\source\repos\Guffi2\Guffi2\bin\Debug\WcfServiceLibrary1.dll.config
+C:\Users\hrafn\source\repos\Guffi2\Guffi2\obj\Debug\Guffi2.csproj.CopyComplete
